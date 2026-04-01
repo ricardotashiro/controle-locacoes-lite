@@ -39,9 +39,3 @@ Sistema simples em PHP + MySQL para gerenciar:
 - o status da reserva é atualizado automaticamente pelas datas
 - o último dia não é cobrado quando houver pernoite
 - a entrada é descontada do saldo total da reserva
-
-## Publicação no Git
-- não suba o `config.php`
-- não suba dados reais de clientes ou reservas
-- use o `.gitignore` incluído no projeto
-"# controle-locacoes-lite" 
