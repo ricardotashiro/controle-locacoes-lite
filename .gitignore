@@ -1,0 +1,7 @@
+config.php
+.env
+/vendor
+/node_modules
+/assets/img/logo.png
+.DS_Store
+Thumbs.db
